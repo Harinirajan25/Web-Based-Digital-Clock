@@ -1,0 +1,78 @@
+#main {
+    display: flex;
+    /* justify-content: center; */
+    width: 80vw;
+    height: 200px;
+    background-color: aqua;
+    margin-top: 200px;
+    margin-left: 140px;
+    border-radius: 20px;
+    background-image: url("https://media.istockphoto.com/id/672291718/photo/dark-gears-background.jpg?s=1024x1024&w=is&k=20&c=uKsq9xqCPS4JEEC-Pb-2Ue_IxHGZMCdyOc3HNQRVl30=");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+#b1 {
+    border: 5px solid white;
+    color: white;
+    box-shadow: 10px white;
+    height: 80px;
+    width: 200px;
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+#b2 {
+    border: 5px solid white;
+    color: white;
+
+    height: 80px;
+    width: 200px;
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 60px;
+}
+
+#b3 {
+    border: 5px solid white;
+    color: white;
+    height: 80px;
+    width: 200px;
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 60px;
+}
+
+#b4 {
+    border: 5px solid white;
+    color: white;
+    height: 80px;
+    width: 200px;
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 0px;
+}
+
+.b {
+    border-radius: 50%;
+}
+
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2024/02/23/17/26/clock-8592484_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+#select {
+    margin-left: 700px;
+    width: 150px;
+    height: 20px;
+}
